@@ -1,3 +1,4 @@
+
 SwiftData
 =========
 
@@ -28,19 +29,20 @@ Ensure that you've added 'libsqlite3.dylib' as a linked framework and that you'v
 
 Xcode Version:
 
-- Xcode 6
+- Xcode 7 beta 5
 
 Can be used in applications with operating systems:
 
 - iOS 7.0+
 - Mac OS X 10.9+
 
+Swift 2.0 compatible.
 
 ##Usage
 
 This section runs through some sample usage of SwiftData.
 
-The full API documentation can be found [here](http://ryanfowler.github.io/SwiftData)
+The full API documentation can be found [here](http://ryanfowler.github.io/SwiftData).
 
 
 ###Table Creation
